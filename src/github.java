@@ -9,5 +9,7 @@
  * @author ASUS 10.1
  */
 public class github {
-    
+    public static void main(String[]args){
+        
+    }
 }
